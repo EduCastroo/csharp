@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\csharp\Exercicio39\bin\Debug\net6.0\Exercicio39.exe
+C:\Users\Usuario\Desktop\csharp\Exercicio39\bin\Debug\net6.0\Exercicio39.deps.json
+C:\Users\Usuario\Desktop\csharp\Exercicio39\bin\Debug\net6.0\Exercicio39.runtimeconfig.json
+C:\Users\Usuario\Desktop\csharp\Exercicio39\bin\Debug\net6.0\Exercicio39.dll
+C:\Users\Usuario\Desktop\csharp\Exercicio39\bin\Debug\net6.0\Exercicio39.pdb
+C:\Users\Usuario\Desktop\csharp\Exercicio39\obj\Debug\net6.0\Exercicio39.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\csharp\Exercicio39\obj\Debug\net6.0\Exercicio39.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\csharp\Exercicio39\obj\Debug\net6.0\Exercicio39.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\csharp\Exercicio39\obj\Debug\net6.0\Exercicio39.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\csharp\Exercicio39\obj\Debug\net6.0\Exercicio39.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\csharp\Exercicio39\obj\Debug\net6.0\Exercicio39.dll
+C:\Users\Usuario\Desktop\csharp\Exercicio39\obj\Debug\net6.0\refint\Exercicio39.dll
+C:\Users\Usuario\Desktop\csharp\Exercicio39\obj\Debug\net6.0\Exercicio39.pdb
+C:\Users\Usuario\Desktop\csharp\Exercicio39\obj\Debug\net6.0\Exercicio39.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\csharp\Exercicio39\obj\Debug\net6.0\ref\Exercicio39.dll
