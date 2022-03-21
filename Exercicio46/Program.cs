@@ -14,24 +14,3 @@ for (int numero = 6; numero <=100; numero++)
 
 }
 Console.WriteLine(soma);
-
-
-
-
-
-
-
-
-
-/*int num = 6, soma = 0;
-
-while (num <= 100)
-{
-    if (num % 2 ==0)
-    {
-        Console.WriteLine(soma + num);
-        num++;
-    }
-}
-
-Console.WriteLine(soma);*/
