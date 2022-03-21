@@ -1,0 +1,15 @@
+C:\Users\eduardo.lima\Desktop\ESTUDOS\Csharp\Exercicios10\bin\Debug\net6.0\Exercicios10.exe
+C:\Users\eduardo.lima\Desktop\ESTUDOS\Csharp\Exercicios10\bin\Debug\net6.0\Exercicios10.deps.json
+C:\Users\eduardo.lima\Desktop\ESTUDOS\Csharp\Exercicios10\bin\Debug\net6.0\Exercicios10.runtimeconfig.json
+C:\Users\eduardo.lima\Desktop\ESTUDOS\Csharp\Exercicios10\bin\Debug\net6.0\Exercicios10.dll
+C:\Users\eduardo.lima\Desktop\ESTUDOS\Csharp\Exercicios10\bin\Debug\net6.0\Exercicios10.pdb
+C:\Users\eduardo.lima\Desktop\ESTUDOS\Csharp\Exercicios10\obj\Debug\net6.0\Exercicios10.csproj.AssemblyReference.cache
+C:\Users\eduardo.lima\Desktop\ESTUDOS\Csharp\Exercicios10\obj\Debug\net6.0\Exercicios10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo.lima\Desktop\ESTUDOS\Csharp\Exercicios10\obj\Debug\net6.0\Exercicios10.AssemblyInfoInputs.cache
+C:\Users\eduardo.lima\Desktop\ESTUDOS\Csharp\Exercicios10\obj\Debug\net6.0\Exercicios10.AssemblyInfo.cs
+C:\Users\eduardo.lima\Desktop\ESTUDOS\Csharp\Exercicios10\obj\Debug\net6.0\Exercicios10.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.lima\Desktop\ESTUDOS\Csharp\Exercicios10\obj\Debug\net6.0\Exercicios10.dll
+C:\Users\eduardo.lima\Desktop\ESTUDOS\Csharp\Exercicios10\obj\Debug\net6.0\refint\Exercicios10.dll
+C:\Users\eduardo.lima\Desktop\ESTUDOS\Csharp\Exercicios10\obj\Debug\net6.0\Exercicios10.pdb
+C:\Users\eduardo.lima\Desktop\ESTUDOS\Csharp\Exercicios10\obj\Debug\net6.0\Exercicios10.genruntimeconfig.cache
+C:\Users\eduardo.lima\Desktop\ESTUDOS\Csharp\Exercicios10\obj\Debug\net6.0\ref\Exercicios10.dll

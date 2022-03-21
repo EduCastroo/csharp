@@ -1,9 +1,10 @@
 ﻿//29) Desenvolva um programa que leia o nome de um funcionário, seu salário,
-//quantos anos ele trabalha na empresa e mostre seu novo salário, reajustado de
+//quantos anos ele trabalha na empresa e mostre seu novo salário, reajustado de 
 //acordo com a tabela a seguir:
 //-Até 3 anos de empresa: aumento de 3%
 //- entre 3 e 10 anos: aumento de 12.5%
 //- 10 anos ou mais: aumento de 20%
+
 
 string nome;
 double salario;
@@ -15,24 +16,25 @@ nome = Console.ReadLine();
 Console.WriteLine("Digite o salário do funcionário: ");
 salario = Convert.ToDouble(Console.ReadLine());
 
-Console.WriteLine("Digite quantos anos o funcionário trabalha na empresa: ");
+Console.WriteLine("Digite o tempo de empresa do funcionário: ");
 tempoEmpresa = Convert.ToInt32(Console.ReadLine());
 
+double reajMin = 3/100;
+double reajMed = 12.5/100;
+double reajMax = 20/100;
 
-//FÓRMULA % = (valor * porcentagem)/100
-double aumentoMin = (salario * 3) / 100;
-double aumentoMed = (salario * 12.5) / 100;
-double aumentoMax = (salario * 20) / 100;
+double aumentoMin =  salario + (reajMin * salario);
+double aumentoMed =  salario + (reajMed * salario);
+double aumentoMax =  salario + (reajMax * salario);
 
-if (tempoEmpresa <= 3)
+if (tempoEmpresa < 3)
 {
-    Console.WriteLine("O seu novo salário com aumento de 3% é: R$" + (salario + aumentoMin));
-}
-else if (tempoEmpresa >= 10)
+    Console.WriteLine("Você recebeu um aumento de 3%, seu novo salário é: " + aumentoMin);
+}else if (tempoEmpresa > 10)
 {
-    Console.WriteLine("O seu novo salário com aumento de 20% é: R$" + (salario + aumentoMax));
+    Console.WriteLine("Você recebeu um aumento de 20%, seu novo salário é: " + aumentoMax);
 }
 else
 {
-    Console.WriteLine("O seu novo salário com aumento de 12.5% é: R$" + (salario + aumentoMed));
+    Console.WriteLine("Você recebeu um aumento de 12.5%, seu novo salário é: " + aumentoMed);
 }

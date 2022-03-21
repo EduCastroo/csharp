@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\csharp\\Exercicio46\\Exercicio46_revisar.csproj": {}
+    "C:\\Users\\eduardo.lima\\Desktop\\csharp\\Exercicio46\\Exercicio46_revisar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\csharp\\Exercicio46\\Exercicio46_revisar.csproj": {
+    "C:\\Users\\eduardo.lima\\Desktop\\csharp\\Exercicio46\\Exercicio46_revisar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\csharp\\Exercicio46\\Exercicio46_revisar.csproj",
+        "projectUniqueName": "C:\\Users\\eduardo.lima\\Desktop\\csharp\\Exercicio46\\Exercicio46_revisar.csproj",
         "projectName": "Exercicio46_revisar",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\csharp\\Exercicio46\\Exercicio46_revisar.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\csharp\\Exercicio46\\obj\\",
+        "projectPath": "C:\\Users\\eduardo.lima\\Desktop\\csharp\\Exercicio46\\Exercicio46_revisar.csproj",
+        "packagesPath": "C:\\Users\\eduardo.lima\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eduardo.lima\\Desktop\\csharp\\Exercicio46\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\eduardo.lima\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

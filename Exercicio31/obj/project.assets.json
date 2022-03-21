@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
+    "C:\\Users\\eduardo.lima\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\csharp\\Exercicio31\\Exercicio31.csproj",
+      "projectUniqueName": "C:\\Users\\eduardo.lima\\Desktop\\csharp\\Exercicio31\\Exercicio31.csproj",
       "projectName": "Exercicio31",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\csharp\\Exercicio31\\Exercicio31.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\csharp\\Exercicio31\\obj\\",
+      "projectPath": "C:\\Users\\eduardo.lima\\Desktop\\csharp\\Exercicio31\\Exercicio31.csproj",
+      "packagesPath": "C:\\Users\\eduardo.lima\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\eduardo.lima\\Desktop\\csharp\\Exercicio31\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\eduardo.lima\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

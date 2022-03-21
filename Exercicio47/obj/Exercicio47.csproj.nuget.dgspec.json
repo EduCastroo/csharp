@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\csharp\\Exercicio47\\Exercicio47.csproj": {}
+    "C:\\Users\\eduardo.lima\\Desktop\\csharp\\Exercicio47\\Exercicio47.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\csharp\\Exercicio47\\Exercicio47.csproj": {
+    "C:\\Users\\eduardo.lima\\Desktop\\csharp\\Exercicio47\\Exercicio47.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\csharp\\Exercicio47\\Exercicio47.csproj",
+        "projectUniqueName": "C:\\Users\\eduardo.lima\\Desktop\\csharp\\Exercicio47\\Exercicio47.csproj",
         "projectName": "Exercicio47",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\csharp\\Exercicio47\\Exercicio47.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\csharp\\Exercicio47\\obj\\",
+        "projectPath": "C:\\Users\\eduardo.lima\\Desktop\\csharp\\Exercicio47\\Exercicio47.csproj",
+        "packagesPath": "C:\\Users\\eduardo.lima\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eduardo.lima\\Desktop\\csharp\\Exercicio47\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\eduardo.lima\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
