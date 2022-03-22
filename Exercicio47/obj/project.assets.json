@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eduardo.lima\\Desktop\\csharp\\Exercicio47\\Exercicio47_revisar.csproj",
-      "projectName": "Exercicio47_revisar",
-      "projectPath": "C:\\Users\\eduardo.lima\\Desktop\\csharp\\Exercicio47\\Exercicio47_revisar.csproj",
+      "projectUniqueName": "C:\\Users\\eduardo.lima\\Desktop\\csharp\\Exercicio47\\Exercicio47_r.csproj",
+      "projectName": "Exercicio47_r",
+      "projectPath": "C:\\Users\\eduardo.lima\\Desktop\\csharp\\Exercicio47\\Exercicio47_r.csproj",
       "packagesPath": "C:\\Users\\eduardo.lima\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\eduardo.lima\\Desktop\\csharp\\Exercicio47\\obj\\",
       "projectStyle": "PackageReference",

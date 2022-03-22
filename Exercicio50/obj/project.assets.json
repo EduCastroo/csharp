@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eduardo.lima\\Desktop\\csharp\\Exercicio50\\Exercicio50_refazer.csproj",
-      "projectName": "Exercicio50_refazer",
-      "projectPath": "C:\\Users\\eduardo.lima\\Desktop\\csharp\\Exercicio50\\Exercicio50_refazer.csproj",
+      "projectUniqueName": "C:\\Users\\eduardo.lima\\Desktop\\csharp\\Exercicio50\\Exercicio50_e.csproj",
+      "projectName": "Exercicio50_e",
+      "projectPath": "C:\\Users\\eduardo.lima\\Desktop\\csharp\\Exercicio50\\Exercicio50_e.csproj",
       "packagesPath": "C:\\Users\\eduardo.lima\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\eduardo.lima\\Desktop\\csharp\\Exercicio50\\obj\\",
       "projectStyle": "PackageReference",
