@@ -1,0 +1,15 @@
+C:\Users\eduardo.lima\Desktop\csharp\Exercicio73\bin\Debug\net6.0\Exercicio73_e.exe
+C:\Users\eduardo.lima\Desktop\csharp\Exercicio73\bin\Debug\net6.0\Exercicio73_e.deps.json
+C:\Users\eduardo.lima\Desktop\csharp\Exercicio73\bin\Debug\net6.0\Exercicio73_e.runtimeconfig.json
+C:\Users\eduardo.lima\Desktop\csharp\Exercicio73\bin\Debug\net6.0\Exercicio73_e.dll
+C:\Users\eduardo.lima\Desktop\csharp\Exercicio73\bin\Debug\net6.0\Exercicio73_e.pdb
+C:\Users\eduardo.lima\Desktop\csharp\Exercicio73\obj\Debug\net6.0\Exercicio73_e.csproj.AssemblyReference.cache
+C:\Users\eduardo.lima\Desktop\csharp\Exercicio73\obj\Debug\net6.0\Exercicio73_e.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo.lima\Desktop\csharp\Exercicio73\obj\Debug\net6.0\Exercicio73_e.AssemblyInfoInputs.cache
+C:\Users\eduardo.lima\Desktop\csharp\Exercicio73\obj\Debug\net6.0\Exercicio73_e.AssemblyInfo.cs
+C:\Users\eduardo.lima\Desktop\csharp\Exercicio73\obj\Debug\net6.0\Exercicio73_e.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.lima\Desktop\csharp\Exercicio73\obj\Debug\net6.0\Exercicio73_e.dll
+C:\Users\eduardo.lima\Desktop\csharp\Exercicio73\obj\Debug\net6.0\refint\Exercicio73_e.dll
+C:\Users\eduardo.lima\Desktop\csharp\Exercicio73\obj\Debug\net6.0\Exercicio73_e.pdb
+C:\Users\eduardo.lima\Desktop\csharp\Exercicio73\obj\Debug\net6.0\Exercicio73_e.genruntimeconfig.cache
+C:\Users\eduardo.lima\Desktop\csharp\Exercicio73\obj\Debug\net6.0\ref\Exercicio73_e.dll

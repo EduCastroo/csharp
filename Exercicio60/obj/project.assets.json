@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eduardo.lima\\Desktop\\csharp\\Exercicio60\\Exercicio60.csproj",
-      "projectName": "Exercicio60",
-      "projectPath": "C:\\Users\\eduardo.lima\\Desktop\\csharp\\Exercicio60\\Exercicio60.csproj",
+      "projectUniqueName": "C:\\Users\\eduardo.lima\\Desktop\\csharp\\Exercicio60\\Exercicio60_e.csproj",
+      "projectName": "Exercicio60_e",
+      "projectPath": "C:\\Users\\eduardo.lima\\Desktop\\csharp\\Exercicio60\\Exercicio60_e.csproj",
       "packagesPath": "C:\\Users\\eduardo.lima\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\eduardo.lima\\Desktop\\csharp\\Exercicio60\\obj\\",
       "projectStyle": "PackageReference",

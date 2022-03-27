@@ -6,7 +6,7 @@
 //d) Quantos homens tem mais de 30 anos
 //e) Quantas mulheres tem menos de 18 anos
 
-int idade = 0, parar = 1, maiorIdade = 0;
+int idade = 0, parar = 1, maiorIdade = 0, cont = 0;
 string nome, sexo;
 
 Console.WriteLine("Digite 0 para CONTINUAR ou 1 para PARAR: ");
@@ -26,9 +26,14 @@ while (parar == 0)
     Console.WriteLine("Digite 0 para CONTINUAR ou 1 para PARAR: ");
     parar = Convert.ToInt32(Console.ReadLine());
 
-    if (idade > maiorIdade)
+    if (sexo == "M" && idade > maiorIdade)
     {
         maiorIdade = idade;
+     
+    }
+    if (idade > maiorIdade )
+    {
+        Console.WriteLine("O nome da pessoa");
     }
 
 }
