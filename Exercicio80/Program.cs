@@ -18,21 +18,11 @@ chave = Convert.ToInt32(Console.ReadLine());
 
 for (int i = 0; i < numeros.Length; i++)
 {
-    if (chave != numeros[i])
+    if (chave == numeros[i])
     {
-		Console.WriteLine(numeros[i]);
-    }
-    else
-    {
-		Console.WriteLine("O número está na posição " + i + ".");
-		var++;
-    }
-	if (var > 1)
-    {
-		Console.WriteLine("O número digitado foi sorteado " + var + "veze.");
-    }
-    else
-    {
-        Console.WriteLine("O número digitado foi sorteado " + var + " vez.");
+        Console.WriteLine("O número está na posição " + i + ".");
+        var++;
     }
 }
+
+Console.WriteLine("O número digitado foi sorteado " + var + "vezes.");

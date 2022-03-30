@@ -1,0 +1,15 @@
+C:\Users\eduardo.lima\Desktop\csharp\Exercicio80\bin\Debug\net6.0\Exercicio80_revisar.exe
+C:\Users\eduardo.lima\Desktop\csharp\Exercicio80\bin\Debug\net6.0\Exercicio80_revisar.deps.json
+C:\Users\eduardo.lima\Desktop\csharp\Exercicio80\bin\Debug\net6.0\Exercicio80_revisar.runtimeconfig.json
+C:\Users\eduardo.lima\Desktop\csharp\Exercicio80\bin\Debug\net6.0\Exercicio80_revisar.dll
+C:\Users\eduardo.lima\Desktop\csharp\Exercicio80\bin\Debug\net6.0\Exercicio80_revisar.pdb
+C:\Users\eduardo.lima\Desktop\csharp\Exercicio80\obj\Debug\net6.0\Exercicio80_revisar.csproj.AssemblyReference.cache
+C:\Users\eduardo.lima\Desktop\csharp\Exercicio80\obj\Debug\net6.0\Exercicio80_revisar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo.lima\Desktop\csharp\Exercicio80\obj\Debug\net6.0\Exercicio80_revisar.AssemblyInfoInputs.cache
+C:\Users\eduardo.lima\Desktop\csharp\Exercicio80\obj\Debug\net6.0\Exercicio80_revisar.AssemblyInfo.cs
+C:\Users\eduardo.lima\Desktop\csharp\Exercicio80\obj\Debug\net6.0\Exercicio80_revisar.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.lima\Desktop\csharp\Exercicio80\obj\Debug\net6.0\Exercicio80_revisar.dll
+C:\Users\eduardo.lima\Desktop\csharp\Exercicio80\obj\Debug\net6.0\refint\Exercicio80_revisar.dll
+C:\Users\eduardo.lima\Desktop\csharp\Exercicio80\obj\Debug\net6.0\Exercicio80_revisar.pdb
+C:\Users\eduardo.lima\Desktop\csharp\Exercicio80\obj\Debug\net6.0\Exercicio80_revisar.genruntimeconfig.cache
+C:\Users\eduardo.lima\Desktop\csharp\Exercicio80\obj\Debug\net6.0\ref\Exercicio80_revisar.dll
